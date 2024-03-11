@@ -1,0 +1,13 @@
+"health_policy_id";"annual_income";"blood_group";"dependent";"employement";"existing_insurance_details";"family_medical_history";"health_history";"height";"other_source_of_income";"smoking";"weight";"customer_id";"transaction_transaction_id"
+1;65466.0;"OPOSITIVE";3;"unemployed";"Health insurance with XYZ Company";"None";"No significant health issues";1925.5;"Part-time job";"false";60.0;5;12
+2;65466.0;"OPOSITIVE";3;"unemployed";"Health insurance with XYZ Company";"None";"No significant health issues";1925.5;"Part-time job";"false";60.0;1;14
+3;50000.0;"ABNEGATIVE";2;"unemployed";"Life insurance with ABC Company";"Diabetes";"No chronic diseases";160.0;"Freelancing";"false";65.0;22;30
+4;80000.0;"ONEGATIVE";0;"employed";"None";"None";"No significant health issues";180.0;"None";"false";75.0;24;31
+5;80000.0;"ONEGATIVE";0;"employed";"None";"None";"No significant health issues";180.0;"None";"false";75.0;25;32
+6;80000.0;"ONEGATIVE";0;"employed";"None";"None";"No significant health issues";180.0;"None";"false";75.0;26;33
+7;80000.0;"ONEGATIVE";0;"employed";"None";"None";"No significant health issues";180.0;"None";"false";75.0;27;34
+8;80000.0;"ONEGATIVE";0;"employed";"None";"None";"No significant health issues";180.0;"None";"false";75.0;28;35
+9;80000.0;"ONEGATIVE";0;"employed";"None";"None";"No significant health issues";180.0;"None";"false";75.0;29;36
+10;80000.0;"ONEGATIVE";0;"employed";"None";"None";"No significant health issues";180.0;"None";"false";75.0;23;37
+11;10000.0;"OPOSITIVE";4;"unemployed";"NA";"NA";"NA";165.0;"NA";"true";65.0;1;38
+12;70000.0;"OPOSITIVE";2;"employed";"Nil";"Nil";"Nil";165.0;"Nil";"true";190.0;31;39

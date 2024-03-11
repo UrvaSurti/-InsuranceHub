@@ -1,0 +1,3 @@
+"admin_id";"address";"contact_number";"date_of_birth";"email";"full_name";"password";"role";"username"
+1;"Admin Address";"1234567891";"2023-12-01";"admin@example.com";"Admin User";"$2a$10$6yRoPAckhVgcv.eXr080neHgM.jeTJ4kfwfmAJG6Mnb/nw4TNHQZ2";"ADMIN";"admin1"
+2;"501 E 32nd Street APt 414";"2053456789";"1999-12-01";"acash12@gmail.com";"Aakash Jain";"$2a$10$8zLHezAn1hh6D6BSq09nouO3znJ0ZgyCDmiuZcK31c7Z79p7EbzR6";"ADMIN";"Acash"
