@@ -11,7 +11,7 @@ function OpenAI() {
 
   const fetch = async () => {
     const config = new Configuration({
-      organization: "org-XIHXjbcXmQcosB5Nxb3GF2YK",
+      organization: "your organization key",
       apiKey: "your API-Key",
     });
 

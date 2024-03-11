@@ -8,7 +8,7 @@ let response = {};
 class Recommender {
   fetch = async (object, price1, price2, price3) => {
     const config = new Configuration({
-      organization: "org-XIHXjbcXmQcosB5Nxb3GF2YK",
+      organization: "your organization key",
       apiKey: "your API-Key",
     });
 
@@ -45,7 +45,7 @@ class Recommender {
 
   fetchRe = async (object, price1, price2, price3) => {
     const config = new Configuration({
-      organization: "org-XIHXjbcXmQcosB5Nxb3GF2YK",
+      organization: "your organization key",
       apiKey: "your API-Key",
     });
 
@@ -82,7 +82,7 @@ class Recommender {
 
   fetchRent = async (object, price1, price2, price3) => {
     const config = new Configuration({
-      organization: "org-XIHXjbcXmQcosB5Nxb3GF2YK",
+      organization: "your organization key",
       apiKey: "your API-Key",
     });
 
