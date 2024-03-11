@@ -12,7 +12,7 @@ function OpenAI() {
   const fetch = async () => {
     const config = new Configuration({
       organization: "org-XIHXjbcXmQcosB5Nxb3GF2YK",
-      apiKey: "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",
+      apiKey: "your API-Key",
     });
 
     const openai = new OpenAIApi(config);
